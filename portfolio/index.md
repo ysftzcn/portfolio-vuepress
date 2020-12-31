@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>ysftzcn</strong>, new year, new hopes !"
+hero_text: new year, new hopes !
 title: Hero
 
 ---
