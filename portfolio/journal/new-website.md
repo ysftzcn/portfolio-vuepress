@@ -18,5 +18,3 @@ Bu konu ile ilgili bir çok makale bulabiliriz. İstediğimiz temayı kullanarak
 * Github CI/CD
 * Forestry Headless CMS
 * Node.js
-
-
