@@ -19,4 +19,4 @@ Bu konu ile ilgili bir çok makale bulabiliriz. İstediğimiz temayı kullanarak
 * Forestry Headless CMS
 * Node.js
 
-![](https://cdn.svgporn.com/logos/vue.svg =100x100)   
+<img src="https://cdn.svgporn.com/logos/vue.svg" width="200">
