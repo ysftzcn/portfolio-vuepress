@@ -20,3 +20,7 @@ Bu konu ile ilgili bir çok makale bulabiliriz. İstediğimiz temayı kullanarak
 * Node.js
 
 <img src="https://cdn.svgporn.com/logos/vue.svg" width="200">
+<img src="https://cdn.svgporn.com/logos/netlify.svg" width="100">
+<img src="https://cdn.svgporn.com/logos/github.svg" width="100">
+<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="100" >
+
