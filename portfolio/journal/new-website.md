@@ -1,20 +1,13 @@
 ---
-title: Yeni Website ve Yeni Altyapı
+title: yeni yıl, yeni umutlar
 date: 2018-08-09T17:49:28.000+00:00
-excerpt: Yeni websitemizi anlatan bilgiler
+excerpt: Umutlar ve 2021 hedefleri ...
 
 ---
-# Content management and VuePress
+# 2021
 
-Forestry yapısı ile headless CMS olarak siteyi düzenleyebiliyorum. VuePress yapısını Github üzerinde barındırıyorum ve PaaS hizmetini de Netlify ile çözmüş durumdayım.
+2021 yılında yeni bir websitesi yapısı kullanmak istedim. 
 
-## Forestry ile içerik yönetimi
+Gerçekleştirmek istediğim hayallerimi bu yıl gerçekleştirmek istiyorum.
 
-Bu konu ile ilgili bir çok makale bulabiliriz. İstediğimiz temayı kullanarak Headless bir yapıda içeriklerimizi kontrol edebiliriz. 
-
-* VuePress
-* Vue.js
-* Netlify
-* Github CI/CD
-* Forestry Headless CMS
-* Node.js
+Yeni bir sayfa açıyorum. Bakalım neler ile karşılaşacağım ...
