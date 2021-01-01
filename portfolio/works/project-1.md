@@ -2,9 +2,11 @@
 title: Project - NodePowershell
 date: 2018-08-01T00:00:00.000+00:00
 thumbnail: "/upload/project-one.png"
-year: 2018
+year: 2021
 categories:
-- print
+- javascript
+- node.js
+- powershell
 description: subtitle
 
 ---
