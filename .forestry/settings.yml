@@ -23,8 +23,6 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
-- type: heading
-  label: Info
 - type: document
   path: portfolio/config.json
   label: Site Config
