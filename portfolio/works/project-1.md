@@ -1,15 +1,19 @@
 ---
-title: Project one
-date: 2018-08-01 00:00:00 +0000
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+title: Project - NodePowershell
+date: 2018-08-01T00:00:00.000+00:00
+thumbnail: "/upload/project-one.png"
 year: 2018
 categories:
 - print
 description: subtitle
 
 ---
-# Project one
+# Node.js and Powershell
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Aklımdaki projelerden birisi, bir web uygulaması ile Powershell scriptlerimi çalıştırmak istiyorum.
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+* Express
+* Node.js
+* Powershell
+
+  ![](/upload/project-one.png)
