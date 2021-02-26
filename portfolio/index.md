@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: new year, new hopes !
+hero_text: Cyber World !
 title: Hero
 
 ---
