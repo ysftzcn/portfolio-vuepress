@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: Cyber World !
+hero_text: less is more
 title: Hero
 
 ---
